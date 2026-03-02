@@ -22,6 +22,10 @@ The pipeline is fully reproducible.
 
 Mock datasets are generated internally within the notebook. No external files are required. This approach demonstrates reproducibility, analysis workflow, and figure generation.
 
+## Results
+
+Click file -> transcriptomics_analysis_DEMO.ipynb
+
 ---
 
 ## Requirements
