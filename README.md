@@ -1,18 +1,20 @@
 # Transcriptomics Workflow DEMO
 **Author:** Jose Alvarez  
-**Date:** [Feb 27th, 2026]
+**Date:** [March 2nd, 2026]
 
 ---
 
 ## Overview
 
-This repository contains a demonstration bioinformatics workflow for transcriptomic analysis. The notebook illustrates:
+This repository contains a simulated multi-omics workflow integrating:
 
-- Differential gene expression analysis  
-- Visualization using volcano plots and heatmaps  
-- Kaplan–Meier survival analysis  
-- Integration of mutation status (e.g. TP53 / CTNNB1)  
-- Reproducible data analysis workflow
+- Differential gene expression analysis 
+- Mutation stratification (e.g. TP53, CTNNB1)
+- Copy Number Variation (CNV) Analysis 
+- Kaplan–Meier survival modeling 
+
+All datasets are randomly generated for demonstration purposes.
+The pipeline is fully reproducible.
 
 ---
 
